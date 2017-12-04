@@ -6,3 +6,4 @@ Content/CloseCombat/LFS** filter=lfs diff=lfs merge=lfs -text
 Content/ShintoShrine/Textures/** filter=lfs diff=lfs merge=lfs -text
 Content/ShintoShrine/Meshes/** filter=lfs diff=lfs merge=lfs -text
 Content/ShintoShrine/Maps/** filter=lfs diff=lfs merge=lfs -text
+Content/ShintoShrine/Blueprint/** filter=lfs diff=lfs merge=lfs -text
