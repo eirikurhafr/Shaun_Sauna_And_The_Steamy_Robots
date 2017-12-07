@@ -12,3 +12,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/GitIgnoredFiles/*
+Content/LFS/City_Original_BuiltData
