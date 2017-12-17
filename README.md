@@ -74,21 +74,34 @@ model:  https://free3d.com/3d-model/shotgun-29957.html, Non-commercial use licen
 sounds: http://soundbible.com/2095-Mossberg-500-Pump-Shotgun.html, Attribution 3.0 licence
 
 #### RPG
+model: https://free3d.com/3d-model/rpg-7-97882.html, Non-commercial use licence
+fire sound: http://soundbible.com/2075-RPG-Plus-Shrapnel.html, Attribution 3.0 licence
+on-hit sound: Build-in the engine
 
 ### **Enemy bots**
+All enemies are based on the default ue4 mannequins that are all free for Commercial use
 
-All enemies are base on the default ue4 mannequins that are licences for Commercial use
+### **Swords**
+CloseCombats asset from ue4, free for commercial use
 
 ### **Level design**
 textures: http://texturify.com/
 
-#### **The Sauna**
+### **Laser sounds for guns**
+https://freesound.org/people/kafokafo/sounds/128229/, Creative commons  0 license
+https://freesound.org/people/unfa/sounds/187119/, Attribution 3.0 licence
+https://freesound.org/people/DayCraftMC/sounds/337112/, Creative commons  0 license
+https://freesound.org/people/InspectorJ/sounds/376415/, Attribution 3.0 licence
+https://freesound.org/people/ejfortin/sounds/49695/, sampling + license
+https://freesound.org/people/LeMudCrab/sounds/163458/, Creative commons  0 license
+https://freesound.org/people/Timbre/sounds/138386/, Non-commercial use licence
 
+#### **The Sauna**
 Asset: https://www.unrealengine.com/marketplace/shinto-shrine
 Licence: bought, commercial
 
-#### **Other**
-All other work on the map is made in-house
+#### **Music**
+https://soundcloud.com/starmanofficial/starman-addict
 
 ## **Special thanks**
 https://myrkur.is/
