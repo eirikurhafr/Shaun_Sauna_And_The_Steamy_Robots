@@ -42,7 +42,7 @@ In addition to than you can upgrade your character abilities, fill your health a
 
 - **Left mouse trigger** - fire
 - **Right mouse trigger** - Special ability
-- **Middle mouse trigger** - Bullet time
+- **Middle mouse trigger  /  Left shift** - Bullet time
 - **W** - move forward
 - **S** - move backwards
 - **A** - strafe left
@@ -80,6 +80,7 @@ sounds: http://soundbible.com/2095-Mossberg-500-Pump-Shotgun.html, Attribution 3
 All enemies are base on the default ue4 mannequins that are licences for Commercial use
 
 ### **Level design**
+textures: http://texturify.com/
 
 #### **The Sauna**
 
