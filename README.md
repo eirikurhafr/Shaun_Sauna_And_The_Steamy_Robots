@@ -1,7 +1,7 @@
-#Shaun Sauna & The Steamy Robots
+# Shaun Sauna & The Steamy Robots
 
 > **Notes:**
-> You will need to install ***GIT LFS*** to successfully pull the whole project
+> You will need to install ***GIT LFS*** to successfully pull the whole project.
 >  
 >  All files  2mib or bigger have to be placed into the lfs folder in the project directory,
 >  All experimental work should be done in a directory called ***GitIgnoredFiles*** and once game ready, move into the ***SteamyRobots*** directory.
@@ -59,21 +59,21 @@ In addition to than you can upgrade your character abilities, fill your health a
 
 ## **Attributions**
 
-###**Weapon assets**
+### **Weapon assets**
 
-####Pistol
+#### Pistol
 model: https://free3d.com/3d-model/colt-45-31230.html, Non-commercial use licence
 sounds: http://soundbible.com/2123-40-Smith-Wesson-8x.html, Attribution 3.0 licence
 
-####Rifle
+#### Rifle
 model: https://free3d.com/3d-model/ak47-game-ready-16439.html, Commercial Use
 sound: http://soundbible.com/1998-Gun-Fire.html, Attribution 3.0 licence
 
-####Shotgun
+#### Shotgun
 model:  https://free3d.com/3d-model/shotgun-29957.html, Non-commercial use licence
 sounds: http://soundbible.com/2095-Mossberg-500-Pump-Shotgun.html, Attribution 3.0 licence
 
-####RPG
+#### RPG
 
 ### **Enemy bots**
 
@@ -81,12 +81,13 @@ All enemies are base on the default ue4 mannequins that are licences for Commerc
 
 ### **Level design**
 
-####**The Sauna**
+#### **The Sauna**
+
 Asset: https://www.unrealengine.com/marketplace/shinto-shrine
 Licence: bought, commercial
 
 #### **Other**
 All other work on the map is made in-house
 
-##**Special thank**
+## **Special thanks**
 https://myrkur.is/
